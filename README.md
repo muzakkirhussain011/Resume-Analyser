@@ -97,3 +97,10 @@ We aim to enhance the app with the following features in future updates:
 ---
 
 Happy job hunting with **Resume Enhancement with Chat**! 🎉  
+
+---
+
+👥 Contributors  
+| Name      | GitHub Profile                          |  
+|-----------|-----------------------------------------|  
+| Syed Muzakkir Hussain | [muzakkirhussain011](https://github.com/muzakkirhussain011) |
