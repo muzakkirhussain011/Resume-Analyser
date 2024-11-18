@@ -65,11 +65,11 @@ To run the app locally, follow these steps:
 📦 Install Dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 🚀 Launch the Application:
 ```bash
 streamlit run app.py
-
+```
 
 This command will start the Streamlit server, and you’ll see a URL (usually `http://localhost:8501`) where you can access the app in your browser.
 
@@ -81,7 +81,7 @@ This command will start the Streamlit server, and you’ll see a URL (usually `h
  ┣ 📜app.py              # Main Streamlit application file  
  ┣ 📜requirements.txt    # Dependencies required to run the app  
  ┗ 📜README.md           # Documentation of the project  
-
+```
 
 ### 🔐 Environment Variables  
 To use this application, you need an API key for Unify AI. The key should be dynamically provided in the app interface.  
