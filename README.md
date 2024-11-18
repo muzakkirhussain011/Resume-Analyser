@@ -1,5 +1,5 @@
 # 📄 Resume Enhancement with Chat  
-[🚀 Demo](https://resume-enhancement-chat.streamlit.app/)  
+[🚀 Demo](https://resume-analyser-unifyai.streamlit.app/)  
 
 <video width="640" height="480" autoplay>
   <source src="videos/Resume_Enhancement.mp4" type="video/mp4">
@@ -7,7 +7,7 @@ Your browser does not support the video tag.
 </video>
 
 ✨ Experience the power of AI-driven resume analysis with a live version hosted on Streamlit! Try it out yourself using the link below:  
-[🌐 Resume Enhancement with Chat on Streamlit](https://resume-enhancement-chat.streamlit.app/)  
+[🌐 Resume Enhancement with Chat on Streamlit](https://resume-analyser-unifyai.streamlit.app/)  
 
 ---
 
@@ -52,10 +52,10 @@ This app bridges the gap between **job seekers** and **career success** by enabl
 ## 📂 Repository and Deployment  
 
 ### 🔍 Access the Source Code  
-The source code for **Resume Enhancement with Chat** is available [here](https://github.com/user/resume-enhancement-chat).  
+The source code for **Resume Enhancement with Chat** is available [here](https://github.com/muzakkirhussain011/Resume-Analyser/blob/main/app.py).  
 
 ### 🌐 Live Application  
-Access the live app here: [Resume Enhancement with Chat on Streamlit](https://resume-enhancement-chat.streamlit.app/)  
+Access the live app here: [Resume Enhancement with Chat on Streamlit](https://resume-analyser-unifyai.streamlit.app/)  
 
 ---
 
@@ -66,6 +66,7 @@ To run the app locally, follow these steps:
 ```bash
 pip install -r requirements.txt
 ```
+
 🚀 Launch the Application:
 ```bash
 streamlit run app.py
